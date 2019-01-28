@@ -12,6 +12,7 @@ as stated above the main purpose is for training
 This is a simple project, Deployment can only be done on a web dserver
 
 ## How to Contribute
+Please fork this repo and then issue Pull Requests for review
 
 ### Copyright
 
