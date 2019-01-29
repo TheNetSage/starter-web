@@ -16,4 +16,4 @@ Please fork this repo and then issue Pull Requests for review
 
 ### Copyright
 
-2019 Me.Inco
+2019 The Net Sage all right reserved
